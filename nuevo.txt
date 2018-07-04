@@ -1,2 +1,3 @@
 este es mi primer archivo git
 git pasando a remoto
+git cambios
